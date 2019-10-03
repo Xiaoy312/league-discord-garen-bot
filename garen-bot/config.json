@@ -1,0 +1,8 @@
+{
+    "token": "__INSERT_DISCORD_BOT_SECRET_HERE__",
+    "commandPrefix": "!",
+    "whitelistedChannels": [
+        { "channelId": 999999999999999999, "hint": "Paula's MMORPG Server:hide-in-bush" },
+        { "channelId": 999999999999999999, "hint": "Xy:incubator" }
+    ]
+}
