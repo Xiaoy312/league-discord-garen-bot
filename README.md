@@ -11,9 +11,9 @@ commands:
 libraries: Discord.NET, Json.NET, Microsoft.Extensions.Configuration.Json, Microsoft.Extensions.Logging  
 screenshots:
 
-![](img\help-command.PNG)
+![](img/help-command.PNG)
 
-![](img\aram-command.PNG)
+![](img/aram-command.PNG)
 
 # metasrc
 Scraping script for [METAsrc](https://www.metasrc.com).
